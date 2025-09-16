@@ -11,7 +11,7 @@
         "projectName": "PersonalChess.API",
         "projectPath": "C:\\Users\\USER\\source\\Repos\\CaynGazzara\\chess-personal\\PersonalChess.API\\PersonalChess.API.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\source\\repos\\CaynGazzara\\chess-personal\\PersonalChess.API\\obj\\",
+        "outputPath": "C:\\Users\\USER\\source\\Repos\\CaynGazzara\\chess-personal\\PersonalChess.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
